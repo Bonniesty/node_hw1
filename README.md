@@ -2,5 +2,5 @@
 
 test results of postman
 
-![image](https://github.com/Bonniesty/node_hw1/get.png)
+![image](https://github.com/Bonniesty/node_hw1/blob/master/get.png)
 
